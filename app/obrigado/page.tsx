@@ -118,7 +118,7 @@ export default function ThankYou() {
                                         <div className="bg-white rounded-2xl p-6 shadow-md border-l-4 border-primary">
                                             <div className="text-gray-700 leading-relaxed space-y-4 text-lg">
                                                 <p className="text-gray-600 italic">
-                                                    "Olá, eu sou o Paulo Ricardo, fundador do Iservice. Se você chegou até aqui,
+                                                    &ldquo;Olá, eu sou o Paulo Ricardo, fundador do Iservice. Se você chegou até aqui,
                                                     você faz parte do <strong className="text-gray-900">seleto grupo de profissionais</strong> que entendeu que a prestação
                                                     de serviços no Brasil mudou.
                                                 </p>
@@ -131,7 +131,7 @@ export default function ThankYou() {
                                                     passos e o seu acesso à nossa comunidade.
                                                 </p>
                                                 <p className="font-bold text-xl text-primary not-italic border-t-2 border-primary/20 pt-4 mt-4">
-                                                    Vamos construir o futuro do trabalho juntos."
+                                                    Vamos construir o futuro do trabalho juntos.&rdquo;
                                                 </p>
                                             </div>
                                         </div>
