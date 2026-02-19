@@ -16,7 +16,7 @@ export default function ThankYou() {
     }, [])
 
     return (
-        <main className="min-h-screen bg-gradient-to-br from-gray-50 to-white">
+        <main className="min-h-screen bg-gradient-to-br from-gray-50 to-white"> 
             {/* Header */}
             <div className="section-container py-8">
                 <Link href="/" className="inline-block">
